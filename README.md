@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25336474/README.md)
 # Whisper Large-v3 Fine-Tuning for Accented English ASR
 
 Fine-tuning [Whisper large-v3](https://huggingface.co/openai/whisper-large-v3) (1.5B parameters) with LoRA on 100+ hours of accented English speech to improve ASR performance on underrepresented English accents.
